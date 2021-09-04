@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry exported="true" kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="src/java"/>
+	<classpathentry exported="true" kind="lib" path="build/web/WEB-INF/lib/commons-codec-1.10.jar"/>
+	<classpathentry exported="true" kind="lib" path="build/web/WEB-INF/lib/commons-io-2.4.jar"/>
+	<classpathentry exported="true" kind="lib" path="build/web/WEB-INF/lib/commons-io-2.5.jar"/>
+	<classpathentry exported="true" kind="lib" path="build/web/WEB-INF/lib/gson-2.2.4.jar"/>
+	<classpathentry exported="true" kind="lib" path="build/web/WEB-INF/lib/javacsv.jar"/>
+	<classpathentry exported="true" kind="lib" path="build/web/WEB-INF/lib/mysql-connector-java-5.1.23-bin.jar"/>
+	<classpathentry exported="true" kind="lib" path="build/web/WEB-INF/lib/opencsv-3.9.jar"/>
+	<classpathentry exported="true" kind="lib" path="build/web/WEB-INF/lib/org.apache.commons.fileupload.jar"/>
+	<classpathentry exported="true" kind="lib" path="build/web/WEB-INF/lib/org.json.jar"/>
+	<classpathentry exported="true" kind="lib" path="Librerias/commons-codec-1.10.jar"/>
+	<classpathentry exported="true" kind="lib" path="Librerias/commons-io-2.4.jar"/>
+	<classpathentry exported="true" kind="lib" path="Librerias/commons-io-2.5.jar"/>
+	<classpathentry exported="true" kind="lib" path="Librerias/gson-2.2.4.jar"/>
+	<classpathentry exported="true" kind="lib" path="Librerias/gson-2.8.2.jar"/>
+	<classpathentry exported="true" kind="lib" path="Librerias/javacsv.jar"/>
+	<classpathentry exported="true" kind="lib" path="Librerias/mysql-connector-java-5.1.23-bin.jar"/>
+	<classpathentry exported="true" kind="lib" path="Librerias/opencsv-3.9.jar"/>
+	<classpathentry exported="true" kind="lib" path="Librerias/org.apache.commons.fileupload.jar"/>
+	<classpathentry exported="true" kind="lib" path="Librerias/org.json.jar"/>
+	<classpathentry exported="true" kind="lib" path="web/WEB-INF/classes/commons-codec-1.10.jar"/>
+	<classpathentry exported="true" kind="lib" path="web/WEB-INF/classes/commons-io-2.4.jar"/>
+	<classpathentry exported="true" kind="lib" path="web/WEB-INF/classes/commons-io-2.5.jar"/>
+	<classpathentry exported="true" kind="lib" path="web/WEB-INF/classes/gson-2.2.4.jar"/>
+	<classpathentry exported="true" kind="lib" path="web/WEB-INF/classes/gson-2.8.2.jar"/>
+	<classpathentry exported="true" kind="lib" path="web/WEB-INF/classes/javacsv.jar"/>
+	<classpathentry exported="true" kind="lib" path="web/WEB-INF/classes/mysql-connector-java-5.1.23-bin.jar"/>
+	<classpathentry exported="true" kind="lib" path="web/WEB-INF/classes/opencsv-3.9.jar"/>
+	<classpathentry exported="true" kind="lib" path="web/WEB-INF/classes/org.apache.commons.fileupload.jar"/>
+	<classpathentry exported="true" kind="lib" path="web/WEB-INF/classes/org.json.jar"/>
+	<classpathentry exported="true" kind="lib" path="web/WEB-INF/lib/commons-codec-1.10.jar"/>
+	<classpathentry exported="true" kind="lib" path="web/WEB-INF/lib/commons-io-2.4.jar"/>
+	<classpathentry exported="true" kind="lib" path="web/WEB-INF/lib/commons-io-2.5.jar"/>
+	<classpathentry exported="true" kind="lib" path="web/WEB-INF/lib/gson-2.2.4.jar"/>
+	<classpathentry exported="true" kind="lib" path="web/WEB-INF/lib/javacsv.jar"/>
+	<classpathentry exported="true" kind="lib" path="web/WEB-INF/lib/mysql-connector-java-5.1.23-bin.jar"/>
+	<classpathentry exported="true" kind="lib" path="web/WEB-INF/lib/opencsv-3.9.jar"/>
+	<classpathentry exported="true" kind="lib" path="web/WEB-INF/lib/org.apache.commons.fileupload.jar"/>
+	<classpathentry exported="true" kind="lib" path="web/WEB-INF/lib/org.json.jar"/>
+	<classpathentry kind="output" path="build/web/WEB-INF/classes"/>
+</classpath>

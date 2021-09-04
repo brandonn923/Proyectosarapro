@@ -1,0 +1,666 @@
+/*caso contrario, el color sera rojo*/
+div input:focus:invalid{
+    border:2px solid red;
+
+    /* otras propiedades */
+}    
+article input:focus:invalid{
+    border:2px solid red;
+    /* otras propiedades */
+}
+
+article textarea:focus:invalid{ 
+    border: 2px solid red;   
+}
+
+article select:focus:invalid{
+    border: 2px solid red;
+}
+
+article section:focus:invalid{
+    border: 2p solid red;
+}
+
+form{
+    font-size: medium;
+}
+.espacio{
+    margin: 5px;
+}
+#Temas{
+ 
+    margin-left: 102%;
+    margin-top: -53%;
+}
+#nomformato{
+   margin-left: -1%;
+}
+#formato{
+    margin-left: 10%;
+}
+
+#adjuntar{
+    
+    margin-left: 38%;
+    margin-top: -4%;
+}
+#adjuIma{
+ 
+    margin-left: 38.4%;
+    margin-top: 2.5%;
+}
+#progressbox{
+    margin-left: 92.5%; 
+    margin-top: -2.5%;
+}
+#progressboxxx{
+    margin-left: 53.5%; 
+    margin-top: -3%;
+}
+#tablaFor{
+    margin-left: 4.2%;
+}
+#nombrecen{
+
+/*    margin-left: 0.5%;*/
+  
+}
+#dirreccion{
+    margin-left: 49.5%;
+    margin-top: -10.2%;
+   
+}
+#areacentro{
+        margin-top: 3%;
+
+}
+#idcentro{
+   
+    margin-left: 4%;
+    margin-top: 3%;        
+}
+#idtabla{
+    margin-left: 0.1%;
+    margin-top: 3%;
+ 
+}
+#btnCentro{
+   
+    margin-left: -1%;
+margin-top: 2.5%;
+margin-bottom: 2%;
+}
+#idpre{
+    
+}
+#buscar{
+  
+    margin-left: 8.6%;
+ }
+ #auto{
+     margin-left: 50%;
+     margin-top: -7%;
+ }
+ #Busque{
+     margin-top: 2.5%;
+ }
+ #formatonom{
+       margin-left: 4%;
+ }
+ #formaciondes{
+        margin-left: 1%;
+ }
+ #TT{
+        background-color: red;
+ }
+ #ttipof{
+     margin-left: 96.5%;
+     margin-top: -8%;
+ }
+ #NNNumero{
+     background-color: red;
+     margin-left: 58%;
+     margin-top: -7%;
+ }
+ #botonfor{
+    margin-bottom: 30%;
+   margin-left: 123%;
+
+ }
+ #Narticulo{
+ 
+     margin-left: 4.3%;
+     margin-top: -12%;
+ }
+
+#liderArea{
+    margin-left: 50%;
+    margin-top: -4.3%;
+}
+#prograForma{
+    margin-top:  2%;
+}
+#btnArea{
+    
+    margin-left: 1%;
+
+    margin-bottom: 10%;
+}
+#idbtnf{
+   margin-top: 3%;
+    margin-bottom: 4%;
+}
+#idforcon{
+    margin-left: 5%;
+    margin-top: 3%;
+}
+#articlefor{
+    margin-left: 5%;
+}
+#tablarea{
+    
+    margin-left: 0.5%;
+}
+#tipoI{
+    margin-top: 2%;
+}
+#numI{
+    margin-top: 2%;
+}
+#correoE{
+    margin-top: 2%;
+}
+#car{
+    margin-top: 2%;
+}
+#claves{
+    margin-top: 2%;
+}
+
+#ResgistarF{
+
+    margin-left: 74%;
+    
+}
+#h4datos{
+  color: #318e7d;
+  margin-left: 1.3%;
+}
+#formaprograma{
+
+    margin-left: 2%;
+}
+#temacrear{
+/*    background-color: green;*/
+    margin-left: 91%;
+    margin-top: -17%;
+}
+#temaGuardar{
+    margin-left: 71.5%;
+   
+}
+#N{
+ margin-left: 1%;
+}
+#botonagre{
+    margin-left: 68%;
+    margin-top: -2%;
+}
+#percent{
+    margin-top: -3%;
+}
+#btnAccionFormato{
+  margin-bottom: 3%;
+}
+#idtipo{
+/*    background-color: green;*/
+    margin-left: 5%;
+    margin-top: 3%;
+}
+#tablaN{
+    margin-left: 0.1%;
+    margin-top: 3%;
+}
+#numelabel{
+    margin-top: 4%;
+}
+#ciulabel{
+       margin-top: 4%;
+}
+#article{
+    margin-left: 3.5%;
+}
+#perfil{
+    margin-top: -1%;
+}
+#btnperfil{
+    margin-left: 43%;
+  
+}
+#cargarT{
+    margin-left: -60%;
+    margin-top: 8%;
+}
+#archivoCC{ 
+    margin-left: 46%;
+    margin-top: -5%;
+ 
+}
+#btncarga{
+      margin-left: 143%;
+    margin-top: -11%;
+
+}
+#labelarc{
+    margin-top: 8%;
+    margin-left: 10%;
+}
+#itemsss{
+    background-color: red;
+    margin-left: 70%;
+    margin-top: -25.4%;
+}
+#formulario{
+/*    background-color: blue;*/
+    margin-top: 4%;
+}
+#labelper{
+  color: black;
+}
+#holass{
+/*    background-color: blue;*/
+}
+#DDescripcion{
+/*    background-color: darkorchid;*/
+    margin-left:  85.3%;
+    margin-top: -6.4%;
+}
+#TTTpublico{
+/*    background-color: fuchsia;*/
+    margin-left: 1.5%;
+}
+#RRequisito{
+/*    background-color: red;*/
+}
+#AArchivo{
+    margin-left: 1.5%; 
+    margin-top: 1.5%;
+/*    background-color: green; */
+}
+#IInstruc{
+/*    background-color: black;*/
+    margin-left:  85.3%;
+    margin-top: -8.9%;
+}
+#IRRequisi{
+/*    background-color: coral;*/
+    margin-top: 1.5%;
+}
+#AAutor{
+/*    background-color: yellow;*/
+}#AAAproducto{
+/*    background-color: purple;*/
+}
+#BBequeda{
+/*    background-color: yellowgreen;*/
+  margin-left:  82.1%;
+    margin-top: -21%;
+}
+#autorderechos{
+/*    background-color: brown;*/
+}
+#RRRed{
+/*    background-color: blue;*/
+}
+#BBBprograma{
+/*    background-color: yellow;*/
+}
+#TTTema{
+/*    background-color: blue;*/
+}
+#RRed{
+/*   background-color: turquoise;*/
+   margin-left: 38%;
+   margin-top: -21%;
+}
+#CCono{
+    /*background-color: black;*/
+}
+#divr{
+/*    background-color: blue;*/
+}
+#divrs{
+/*    background-color: yellow;*/
+}
+#divrcs{
+/*    background-color: green;*/
+}
+#divrc{
+/*    background-color: orangered;*/
+}
+#divrnc{
+/*    background-color: grey;*/
+}
+#RRadjuntar{
+
+ margin-left: 26.5%;
+ margin-top: 1%;
+}
+
+#botonderechos{
+/*     background-color: red; */
+    margin-top:  17%;
+}
+#AAdjuntar{
+/*    background-color: pink;*/
+    margin-left: 75%;
+    margin-top: -8.4%;
+}
+#itemmm{
+    background-color: red;
+}
+
+#BtnLista{
+/*    background-color: yellow;*/
+/*    margin-left: 10%;
+    margin-top: 28%;*/
+}
+#divnombre{
+/*    background-color: green;*/
+}
+#divdescripcion{
+/*    background-color: gray;*/
+}
+#tablax{
+/*    background-color: brown;*/
+     margin-top: 9.5%;
+}
+#divAgregar{
+/*    background-color: gold;*/
+/*    margin-right: 30%;
+    margin-bottom: 7%;*/
+margin-top: 4%;
+}
+#SelectItemDivvv{
+    background-color: blue;
+}
+
+#btnItemd{
+/*    background-color: blue;*/
+}
+#item{
+/*    background-color: fuchsia;*/
+     margin-top: 1.5%;
+}
+#items{
+/*    background-color: blue;*/
+       max-width: 1600px;
+  min-width: 100px;
+  overflow-x: scroll;
+    margin-top: 2%;
+/*    margin-left: 50%;*/
+}
+#itemszz{
+     margin-top: 2%;
+/*     background-color: red;*/
+}
+#modital{
+/*    background-color: red;*/
+    max-width: 1600px;
+    min-width: 100px;
+    overflow-x: scroll;
+    margin-left: 4%;
+    
+}
+#Ttabla{
+    background-color: yellow;
+}
+#formato{
+    margin-left: 0.1%;
+}
+#instrucccion{
+    background-color: red;
+}
+#buques{
+    margin-top: 2%;
+    margin-left: 25.5%;
+}
+#aadjuntar{
+    margin-left: 26%;
+   
+}
+/*#AaAutor{
+   margin-right: 0.1%;
+}*/
+/*#BbBusqueda{
+    margin-top: 3%;
+    margin-left: 3%;
+}*/
+
+#ABusqueda{
+   
+    margin-left: 8%;
+    margin-top: 2%;
+}
+#labelBuque{
+    margin-left: 23%;
+    margin-bottom: 1%;
+}
+#articleNO{
+    margin-left: 4%;
+    margin-top: 1%;
+}
+#NomLista{
+/*    background-color: yellow;*/
+}
+#FechaEvaluacion{
+/*    background-color: blue;*/
+}
+#labellista{
+/*    background-color: red;*/
+    margin-left: 30%;
+    margin-bottom: 1.5%; 
+}
+#Respuestaitem{
+/*    background-color: green;*/
+    margin-bottom: 1.5%;
+}
+#labelobservacion{
+/*    background-color: fuchsia;*/
+     margin-left: 30%;
+    margin-bottom: 1.5%; 
+}
+#divobservacion{
+/*    background-color: brown;*/
+      margin-bottom: 1.5%;
+}
+#divadjuntar{
+/*    background-color: tomato;*/
+}
+#tablalista{
+/*    background-color: red;*/
+}
+#iitem{
+/*    background-color: red;*/
+}
+#iitems{
+/*    background-color: blue;*/
+}
+#divitems{
+/*    background-color: yellow;*/
+    margin-left: 25%;
+}
+/*#divbtnModifi{ 
+    background-color: pink;
+}*/
+#BtnListaa{
+/*    background-color: green;*/
+    margin-left: 15%;
+} 
+#btnItemm{
+    margin-left: 78%;
+    margin-top: 8%;
+}
+#clone{
+/*    background-color: red;*/
+    max-width: 1600px;
+  min-width: 100px;
+/*  overflow-x: scroll; */
+}
+#Catetable{
+/*    background-color: red;*/
+     max-width: 1600px;
+  min-width: 100px;
+  overflow-x: scroll;
+  margin-top: 2%;
+  margin-left: 1%;
+  
+}
+.ctabla{
+/*    background-color: blue;*/
+   max-width: 1600px;
+  min-width: 100px;
+  overflow-x: scroll; 
+}
+/*.rtabla{
+    background-color: blue;
+     max-width: 1600px;
+  min-width: 100px;
+  overflow-x: scroll; 
+}*/
+article.testilo{
+/*  background-color: red;*/
+  max-width: 1600px;
+  min-width: 100px;
+  overflow-x: scroll;
+}
+
+table.testilos{
+/*    background-color: blue;*/
+  max-width: 1600px;
+  min-width: 100px;
+  overflow-x: scroll;
+}
+
+#temma{
+/*    background-color: blue;*/
+     max-width: 1600px;
+  min-width: 100px;
+  overflow-x: scroll;
+  margin-top: 2%;
+}
+#idaarea{
+     max-width: 1600px;
+  min-width: 100px;
+  overflow-x: scroll;
+/*  background-color: blue;*/
+} 
+#programasnuevos{
+/*    background-color: red;*/
+     max-width: 1600px;
+  min-width: 100px;
+  overflow-x: scroll;
+}
+#rowww{
+     max-width: 1600px;
+  min-width: 100px;
+  overflow-x: scroll;
+}
+#SelectAutoresDiv{
+      max-width: 1600px;
+  min-width: 100px;
+  overflow-x: scroll;
+}
+#btnTemaP{
+    margin-left: 30%;
+}
+#idnomf{
+/*   margin-left: 8%;*/
+/*    background-color: blueviolet;*/
+}
+#idadjun{
+/*    background-color: orange;*/
+}
+#idcrear{ 
+    margin-top: 5%;
+}
+#idprograma{
+    margin-top: 3%;
+    margin-bottom: 4%;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+select#soflow-color {
+   color: #fff;
+   background-image: url(http://i62.tinypic.com/15xvbd5.png), -webkit-linear-gradient(#779126, #779126 40%, #779126);
+   background-color: #779126;
+   -webkit-border-radius: 20px;
+   -moz-border-radius: 20px;
+   border-radius: 20px;
+   padding-left: 15px;
+}
+
+
+
+
+
+
+
+/*#percenttts{
+    background-color: orange;
+    margin-: -10%;
+}
+ */
+ 
+ 
+ 
+/* scrollbar
+ .scrollbar
+{
+	margin-left: 30px;
+	float: left;
+	height: 300px;
+	width: 65px;
+	background: #F5F5F5;
+	overflow-y: scroll;
+	margin-bottom: 25px;
+}
+
+.force-overflow
+{
+	min-height: 450px;
+}
+ 
+ #style-2::-webkit-scrollbar-track
+{
+	-webkit-box-shadow: inset 0 0 6px rgba(0,0,0,0.3);
+	border-radius: 10px;
+	background-color: #F5F5F5;
+}
+
+#style-2::-webkit-scrollbar
+{
+	width: 12px;
+	background-color: #F5F5F5;
+}
+
+#style-2::-webkit-scrollbar-thumb
+{
+	border-radius: 10px;
+	-webkit-box-shadow: inset 0 0 6px rgba(0,0,0,.3);
+	background-color: #c1c1c1;
+}
+    */
+    #ba{
+     background: #fff
+    }
